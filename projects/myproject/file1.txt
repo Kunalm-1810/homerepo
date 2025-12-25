@@ -1,4 +1,0 @@
-henry=hemant
-cavin=karan
-alex=aklesh
-george=gopal
