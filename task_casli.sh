@@ -3,6 +3,7 @@
 # Maintainer "kunal"
 # using function and make a calculator getting values from user
 # adding this file to git
+# This is the second update
 read -p " please provide number1 - " num1
 read -p " please prvider number2 - " num2
 
